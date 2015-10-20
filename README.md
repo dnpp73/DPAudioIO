@@ -16,7 +16,7 @@ DPAudioIO
 
 # Description
 
-Abstract Audio I/O for iOS and OSX
+iOS 6-9, OSX 10.9-10.11 Compatible Abstract Audio I/O
 
 #LICENSE
 
