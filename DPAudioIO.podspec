@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name                  = 'DPAudioIO'
-  s.version               = '1.0.0'
+  s.version               = '1.0.1'
   s.summary               = 'iOS 6-9, OSX 10.9-10.11 Compatible Abstract Audio I/O'
   s.author                = { 'Yusuke SUGAMIYA' => 'yusuke.dnpp@gmail.com' }
   s.homepage              = 'https://github.com/dnpp73/DPAudioIO'
