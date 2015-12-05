@@ -1,4 +1,4 @@
-#import "DPAudio.h"
+#import <DPAudioIO/DPAudio.h>
 
 
 @class DPAudioOutput;
