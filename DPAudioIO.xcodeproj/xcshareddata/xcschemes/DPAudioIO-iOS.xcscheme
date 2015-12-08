@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "1905FF981C128D7700A8B8ED"
-               BuildableName = "DPAudioIO_iOS.framework"
+               BuildableName = "DPAudioIO.framework"
                BlueprintName = "DPAudioIO-iOS"
                ReferencedContainer = "container:DPAudioIO.xcodeproj">
             </BuildableReference>
@@ -46,7 +46,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1905FF981C128D7700A8B8ED"
-            BuildableName = "DPAudioIO_iOS.framework"
+            BuildableName = "DPAudioIO.framework"
             BlueprintName = "DPAudioIO-iOS"
             ReferencedContainer = "container:DPAudioIO.xcodeproj">
          </BuildableReference>
@@ -64,7 +64,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1905FF981C128D7700A8B8ED"
-            BuildableName = "DPAudioIO_iOS.framework"
+            BuildableName = "DPAudioIO.framework"
             BlueprintName = "DPAudioIO-iOS"
             ReferencedContainer = "container:DPAudioIO.xcodeproj">
          </BuildableReference>
